@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-def multipe_returns(sentence):
+def multiple_returns(sentence):
     """Returns tuple with len of string and first char"""
     length = len(sentence)
     if sentence:
